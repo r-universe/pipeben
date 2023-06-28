@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "kssa"]
 	path = kssa
 	url = https://github.com/pipeben/kssa
-	shallow = true
-	registered = true
